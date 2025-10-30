@@ -19,7 +19,7 @@ Consulta el tutorial de Markdown: [Markdown guide (en inglés)](https://www.mark
 ## 3. Imagen (ruta relativa)
 Aquí tienes la imagen incluida en el repositorio:
 
-![Mi imagen de ejemplo](./images/miImagen.png)
+![Mi imagen de ejemplo](./images/PrisonBreak)
 
 ---
 
